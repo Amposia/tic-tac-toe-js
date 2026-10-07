@@ -19,13 +19,7 @@ function changeCell()
     player = 1;	  	     	    	        		  	       	
     plays++;	  	     	    	        		  	       	
     winner();	  	     	    	        		  	       	
-  }	  	     	    	        		  	       	
-  else	  	     	    	        		  	       	
-  {	  	     	    	        		  	       	
-    this.innerHTML = this.innerHTML;	  	     	    	        		  	       	
-    player = player;	  	     	    	        		  	       	
-    plays = plays;	  	     	    	        		  	       	
-  }	  	     	    	        		  	       	
+  }	     	    	        		  	       	
 	  	     	    	        		  	       	
   if (plays == 9)	  	     	    	        		  	       	
   {	  	     	    	        		  	       	
